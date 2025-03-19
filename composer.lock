@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "30f65fee4b7ef9a8c22cf91ff8a32c36",
+    "content-hash": "db3deeb8314c99774f8418f8ecd18b53",
     "packages": [
         {
             "name": "ghostwriter/case-converter",
@@ -494,66 +494,6 @@
                 }
             ],
             "time": "2025-02-06T05:11:03+00:00"
-        },
-        {
-            "name": "ghostwriter/plex",
-            "version": "0.1.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ghostwriter/plex.git",
-                "reference": "7e7623ea7e9c548a2b2c229060237d1abf738df9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/plex/zipball/7e7623ea7e9c548a2b2c229060237d1abf738df9",
-                "reference": "7e7623ea7e9c548a2b2c229060237d1abf738df9",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=8.3"
-            },
-            "require-dev": {
-                "ghostwriter/coding-standard": "dev-main"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Ghostwriter\\Plex\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Nathanael Esayeas",
-                    "email": "nathanael.esayeas@protonmail.com",
-                    "homepage": "https://github.com/ghostwriter",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Provides the fastest lexer for PHP, tokenizing text with named regex patterns for efficient processing",
-            "homepage": "https://github.com/ghostwriter/plex",
-            "keywords": [
-                "ghostwriter",
-                "plex"
-            ],
-            "support": {
-                "docs": "https://github.com/ghostwriter/plex",
-                "forum": "https://github.com/ghostwriter/plex/discussions",
-                "issues": "https://github.com/ghostwriter/plex/issues",
-                "rss": "https://github.com/ghostwriter/plex/releases.atom",
-                "security": "https://github.com/ghostwriter/plex/security/advisories/new",
-                "source": "https://github.com/ghostwriter/plex"
-            },
-            "funding": [
-                {
-                    "url": "https://github.com/sponsors/ghostwriter",
-                    "type": "github"
-                }
-            ],
-            "time": "2024-09-05T17:49:17+00:00"
         },
         {
             "name": "ghostwriter/result",
@@ -2512,12 +2452,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "cff4aea87a06ce745f5a40b340bb5de25cc09f39"
+                "reference": "8f72a6c8d819213790aaab39daa3f646f3abb280"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/cff4aea87a06ce745f5a40b340bb5de25cc09f39",
-                "reference": "cff4aea87a06ce745f5a40b340bb5de25cc09f39",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/8f72a6c8d819213790aaab39daa3f646f3abb280",
+                "reference": "8f72a6c8d819213790aaab39daa3f646f3abb280",
                 "shasum": ""
             },
             "require": {
@@ -2561,7 +2501,7 @@
             "require-dev": {
                 "doctrine/inflector": "^2.0.10",
                 "ghostwriter/case-converter": "^2.0.0",
-                "ghostwriter/container": "^5.0.0",
+                "ghostwriter/container": "^5.0.1",
                 "ghostwriter/filesystem": "^0.1.1",
                 "ghostwriter/json": "^3.0.0",
                 "ghostwriter/shell": "^0.1.0"
@@ -2661,7 +2601,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-18T17:13:44+00:00"
+            "time": "2025-03-19T16:11:48+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
@@ -4363,16 +4303,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "12.0.8",
+            "version": "12.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "ef9ca85556e4142ee2ca05ffb5afbe4303da20ac"
+                "reference": "7835bb4276780e0bbb385ce0a777b839e03096db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/ef9ca85556e4142ee2ca05ffb5afbe4303da20ac",
-                "reference": "ef9ca85556e4142ee2ca05ffb5afbe4303da20ac",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/7835bb4276780e0bbb385ce0a777b839e03096db",
+                "reference": "7835bb4276780e0bbb385ce0a777b839e03096db",
                 "shasum": ""
             },
             "require": {
@@ -4440,7 +4380,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.0.8"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.0.9"
             },
             "funding": [
                 {
@@ -4456,7 +4396,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-03-18T13:44:41+00:00"
+            "time": "2025-03-19T13:47:33+00:00"
         },
         {
             "name": "psr/container",
