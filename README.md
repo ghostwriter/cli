@@ -1,12 +1,8 @@
 # Cli
 
-[![Compliance](https://github.com/ghostwriter/cli/actions/workflows/compliance.yml/badge.svg)](https://github.com/ghostwriter/cli/actions/workflows/compliance.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/cli?color=8892bf)](https://www.php.net/supported-versions)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/cli&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
-[![Code Coverage](https://codecov.io/gh/ghostwriter/cli/branch/main/graph/badge.svg)](https://codecov.io/gh/ghostwriter/cli)
-[![Type Coverage](https://shepherd.dev/github/ghostwriter/cli/coverage.svg)](https://shepherd.dev/github/ghostwriter/cli)
-[![Psalm Level](https://shepherd.dev/github/ghostwriter/cli/level.svg)](https://psalm.dev/docs/running_psalm/error_levels)
-[![Latest Version on Packagist](https://badgen.net/packagist/v/ghostwriter/cli)](https://packagist.org/packages/ghostwriter/cli)
+[![Automation](https://github.com/ghostwriter/cli/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/cli/actions/workflows/automation.yml)
+[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/cli?color=8892bf)](https://www.php.net/supported-versions)
 [![Downloads](https://badgen.net/packagist/dt/ghostwriter/cli?color=blue)](https://packagist.org/packages/ghostwriter/cli)
 
 Provides a micro-framework for building CLI tools in PHP.
