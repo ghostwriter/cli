@@ -3,7 +3,6 @@
   "description": "[WIP] Provides a micro-framework for building CLI tools in PHP"
   "homepage": "https://github.com/ghostwriter/cli"
   "topics": "cli, cli-wrapper, ghostwriter"
-  "private": false
   "has_issues": true
   "has_projects": false
   "has_wiki": false
