@@ -71,7 +71,8 @@
             "tests/bootstrap.php"
         ],
         "exclude-from-classmap": [
-            "tests/Fixture/"
+            "/tests/",
+            "/tests/Fixture/"
         ]
     },
     "bin": "bin/ghostwriter-cli",
