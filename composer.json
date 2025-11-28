@@ -105,8 +105,8 @@
     },
     "extra": {
         "thanks": {
-            "url": "https://github.com/ghostwriter/cli",
-            "name": "ghostwriter/cli"
+            "name": "ghostwriter/cli",
+            "url": "https://github.com/ghostwriter/cli"
         }
     }
 }
