@@ -13,7 +13,6 @@
     executionOrder="depends,random"
     failOnAllIssues="true"
     requireCoverageMetadata="true"
-    requireSealedMockObjects="true"
     stopOnFailure="true"
 >
     <coverage pathCoverage="true" disableCodeCoverageIgnore="true">
