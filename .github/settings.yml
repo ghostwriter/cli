@@ -8,10 +8,6 @@
 "repository":
   "name": "cli"
   "description": "[WIP] Provides a micro-framework for building CLI tools in PHP"
-  "topics":
-    - "ghostwriter"
-    - "cli"
-    - "php"
   "homepage": "https://github.com/ghostwriter/cli"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
